@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: lightslategray;
+  background-color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -47,6 +47,7 @@ h4 {
   display: flex;
   justify-content: space-between;
   margin: 20px 0;
+  border-color: black;
 }
 
 .inc-exp-container > div {
